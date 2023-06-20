@@ -9,3 +9,11 @@
 4) It does the same until it has data of all possible games possible.
 
 5) When it gets all possible permutations its impossible to beat this bot.
+
+#Problem Faced
+1) THE BOT WAS GIVING ERROR IF THE INPUT OF THE USER WAS NOT PRESENT IN DATA SET. 
+ SOLUTION -(RANDOMLY CHOOSE A MOVE)
+
+2) HOW TO GENERATE ALL THE POSSIBLE SEQUENCE OF MOVE POSSIBLE IN GAME.
+
+ SOLUTION-(STILL NOT SOLVED)
